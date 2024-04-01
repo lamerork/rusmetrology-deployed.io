@@ -38,16 +38,8 @@ function About() {
                     ) : null}
 
                     <p className="mt-[1rem] font-light leading-snug tracking-wide text-[1.4rem] md:text-[1.6rem] xl:text-[1.6rem] lg:text-[1.4rem]">
-                      10 Лет на рынке метрологического обеспчения
+                    10-ти летний опыт успешной работы метрологического обеспечения и сертификации продукции во всех сферах промышленности. Повседневный труд для достижения высокого качество предоставления услуг, решение нестандартных задач и клиентоориентированность - залог нашего успеха.
                     </p>
-                    {width < 450 ? (
-                      <>
-                        <p className=" font-light leading-snug tracking-wide text-[1.4rem] md:text-[1.6rem] xl:text-[1.6rem] lg:text-[1.4rem]">
-                          Повседневный труд для достижения высокого качество
-                          предоставления услуг - залог нашего успеха
-                        </p>
-                      </>
-                    ) : null}
                   </div>
                 </div>
               </div>
@@ -66,7 +58,7 @@ function About() {
         <div className=" text-left pr-0 pb-[2rem] xl:pb-[100px] 2xl:pb-[69px] bg-white">
           <div className="w-full px-[15px] mx-auto max-w-[540px] md:max-w-[720px] lg:max-w-[996px] xl:max-w-[1094px]">
             <div className="mx-auto max-w-none my-0 xl:max-w-[960px] 2xl:max-w-[900px] text-justify">
-              <h1 className="mt-0 mr-auto mb-[1.07em] w-fit font-bold text-2xl lg:text-4xl  pb-[.5rem]">
+              <h1 className="mt-0 mr-auto mb-[1.07em] w-fit font-bold text-2xl lg:text-3xl  pb-[.5rem]">
                 Имея огромный опыт, квалифицированную команду и необходимые
                 ресурсы, мы предоставляем все виды метрологического обеспечения.
               </h1>
@@ -89,14 +81,7 @@ function About() {
                   формировать будущее Вашего производства.
                 </p>
               </div>
-              <h1 className="mt-[6rem] lg:mt-[8rem] mr-auto mb-[2rem] w-fit  font-bold text-2xl lg:text-4xl  pb-[.5rem]">
-                Краткое знакомство с Нашим Руководством
-              </h1>
-              <p className="mt-[1rem] mb-[10px] lg:mb-0 text-[1.3rem] lg:text-[1.3rem] ">
-                Руководство компании разделяет ту же страсть к метрологическому
-                обеспечению, также как и вся команда сотрудников Русметрологии.
-                Чтобы узнать больше о Руководстве прочтите их биографию.
-              </p>
+
             </div>
           </div>
         </div>
@@ -143,7 +128,7 @@ function About() {
             <div className="mx-auto max-w-none my-0 xl:max-w-[960px] 2xl:max-w-[900px] text-justify">
               <div className="flex flex-col">
                 <div className="mb-[2rem]">
-                  <h1 className="mt-[6rem] lg:mt-[8rem] mr-auto mb-[2rem] w-fit  font-bold text-2xl lg:text-4xl  pb-[.5rem]">
+                  <h1 className="mt-[6rem] lg:mt-[8rem] mr-auto mb-[2rem] w-fit  font-bold text-2xl lg:text-3xl  pb-[.5rem]">
                     Команда Русметология
                   </h1>
                   <p className="mt-[1rem] mb-[10px]  text-[1.3rem] lg:text-[1.3rem] ">
@@ -164,7 +149,7 @@ function About() {
 
               <div className=" mt-[6rem] lg:mt-[6rem] lg:flex lg:flex-row lg:justify-center lg:items-start">
                 <div className="lg:mr-[1.3rem] w-full">
-                  <h1 className=" mr-auto mb-[1.07em] w-fit font-bold  text-2xl  lg:text-4xl  pb-[.5rem]">
+                  <h1 className=" mr-auto mb-[1.07em] w-fit font-bold  text-2xl  lg:text-3xl  pb-[.5rem]">
                     Наши ценности
                   </h1>
                   <p className="mt-[1rem] mb-[10px]  text-[1.3rem] lg:text-[1.3rem] ">
@@ -179,7 +164,7 @@ function About() {
                   </p>
                 </div>
                 <div className="lg:ml-[1.3rem] w-full">
-                  <h1 className=" mr-auto mb-[1.07em] w-fit font-bold  text-2xl lg:text-4xl  pb-[.5rem]">
+                  <h1 className=" mr-auto mb-[1.07em] w-fit font-bold  text-2xl lg:text-3xl  pb-[.5rem]">
                     Устойчивое развитие
                   </h1>
                   <p className="mt-[1rem] mb-[10px] text-[1.3rem]">
@@ -196,7 +181,7 @@ function About() {
                 <div className=" flex items-center justify-center w-full h-full mr-[1.3rem] ">
                   <div className=" flex flex-col w-full  ">
                     <div className="text-left  w-full mb-[1rem] ">
-                      <h1 className=" mb-[1.07em] w-fit font-bold text-2xl lg:text-4xl pb-[.5rem] ">
+                      <h1 className=" mb-[1.07em] w-fit font-bold text-2xl lg:text-3xl pb-[.5rem] ">
                         Деятельность Русметрологии
                       </h1>
                       <p className="mt-[1rem] mb-[10px]  text-[1.3rem] text-justify">
@@ -228,7 +213,7 @@ function About() {
                 </div>
               </div>
 
-              <h1 className="mt-[6rem] lg:mt-[6rem] mr-auto mb-[2rem] w-fit  font-bold text-2xl lg:text-4xl  pb-[.5rem]">
+              <h1 className="mt-[6rem] lg:mt-[6rem] mr-auto mb-[2rem] w-fit  font-bold text-2xl lg:text-3xl  pb-[.5rem]">
                 Значимые даты
               </h1>
               <p className="mt-[1rem] mb-[10px]  text-[1.3rem] lg:text-[1.3rem] ">

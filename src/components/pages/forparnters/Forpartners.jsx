@@ -66,7 +66,7 @@ function Forpartners() {
         <div className=" text-left pr-0 pb-[2rem] xl:pb-[100px] 2xl:pb-[69px] bg-white">
           <div className="w-full px-[15px] mx-auto sm:max-w-[540px] md:max-w-[720px] lg:max-w-[996px] xl:max-w-[1094px]">
             <div className="mx-auto max-w-none my-0 xl:max-w-[960px] 2xl:max-w-[900px] text-justify">
-              <h1 className="mt-0 mr-auto mb-[1.07em] w-fit font-bold text-2xl lg:text-4xl  pb-[.5rem]">
+              <h1 className="mt-0 mr-auto mb-[1.07em] w-fit font-bold text-2xl lg:text-3xl  pb-[.5rem]">
                 Имея огромный опыт, квалифицированную команду и необходимые
                 ресурсы, мы предоставляем все виды метрологического обеспечения.
               </h1>

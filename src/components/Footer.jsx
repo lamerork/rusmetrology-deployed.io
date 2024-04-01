@@ -82,7 +82,7 @@ function Footer() {
                     Аттестация методик измерений
                   </li>
                   <li
-                    className="hover:underline underline-offset-4 cursor-pointertext-[1.1rem] "
+                    className="hover:underline underline-offset-4 cursor-pointer text-[1.1rem] "
                     onClick={() => navigate("/services/examination")}
                   >
                     Метрологическая экспертиза
@@ -133,17 +133,17 @@ function Footer() {
           <div className="border-t-2 py-[2rem] flex flex-col lg:flex-row justify-between items-center text-left mt-[1rem] ">
             <div className="w-full">
               {" "}
-              <h1 className="mt-0 mb-[.5rem] text-[1rem] ">ИНН: / ОГРН:</h1>
+              <h1 className="mt-0 mb-[.5rem] text-[1rem] ">ИНН: 7723910928   ОГРН: 1147746646618</h1>
             </div>
             <div className="w-full">
               {" "}
               <h1 className="mt-0 mb-[.5rem] text-[1rem] ">
-                © 2021-2023 Все права защищены
+                © 2021-2024 Все права защищены
               </h1>
             </div>
             <div className="w-full">
               {" "}
-              <p> Разработка сайта: Artem Surzhko</p>
+              <p></p>
             </div>
           </div>
         </div>

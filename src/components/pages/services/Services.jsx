@@ -143,7 +143,7 @@ function Services({ yScroll }) {
           <div className=" text-left pr-0 pb-[2rem] xl:pb-[100px] 2xl:pb-[69px] bg-white">
             <div className="w-full px-[15px] mx-auto sm:max-w-[540px] md:max-w-[720px] lg:max-w-[996px] xl:max-w-[1094px]">
               <div className="mx-auto max-w-none my-0 xl:max-w-[960px] 2xl:max-w-[900px] lg:text-justify px-[15px]">
-                <h1 className="mt-0 mr-auto mb-[1.07em] w-fit font-bold text-2xl lg:text-4xl  pb-[.5rem] ">
+                <h1 className="mt-0 mr-auto mb-[1.07em] w-fit font-bold text-2xl lg:text-3xl  pb-[.5rem] ">
                   Предотавление услуг в области метрологического обеспечения на
                   высоком уровне.
                 </h1>
@@ -177,7 +177,7 @@ function Services({ yScroll }) {
                   />
                 </div>
                 <div className="px-[1rem]  ">
-                  <h1 className=" mr-auto my-[2rem] md:my-[3rem]  lg:my-[2rem] w-fit font-bold  text-2xl text-left  lg:text-xl xl:text-3xl pb-[.5rem]">
+                  <h1 className=" mr-auto my-[2rem] md:my-[3rem]  lg:my-[2rem] w-fit font-bold  text-2xl text-left  lg:text-xl xl:text-2xl pb-[.5rem]">
                     Подбор команды специалистов
                   </h1>
                   <p className="mb-[3rem] lg:mb-[1rem]  text-[1.3rem] lg:text-[1.1rem] xl:text-[1.3rem] lg:text-left text-justify">
@@ -200,7 +200,7 @@ function Services({ yScroll }) {
                   />
                 </div>
                 <div className=" w-full px-[1rem]">
-                  <h1 className=" mr-auto my-[2rem] md:my-[3rem]  lg:my-[2rem] w-fit font-bold  text-2xl  lg:text-xl xl:text-3xl pb-[.5rem]">
+                  <h1 className=" mr-auto my-[2rem] md:my-[3rem]  lg:my-[2rem] w-fit font-bold  text-2xl  lg:text-xl xl:text-2xl pb-[.5rem]">
                     Собственная лаборотория
                   </h1>
                   <p className="mt-[1rem] mb-[3rem] md:mb-[1rem] text-[1.3rem] lg:text-[1.1rem] xl:text-[1.3rem] lg:text-left text-justify">
@@ -223,7 +223,7 @@ function Services({ yScroll }) {
                 </div>
 
                 <div className="lg:mr-[1.3rem] w-full px-[1rem]">
-                  <h1 className=" mr-auto my-[2rem] md:my-[3rem]  lg:my-[2rem] w-fit font-bold  text-2xl  lg:text-xl xl:text-3xl pb-[.5rem]">
+                  <h1 className=" mr-auto my-[2rem] md:my-[3rem]  lg:my-[2rem] w-fit font-bold  text-2xl  lg:text-xl xl:text-2xl pb-[.5rem]">
                     Cистема управления
                   </h1>
                   <p className="mt-[1rem] text-[1.3rem] lg:text-[1.1rem] xl:text-[1.3rem] mb-[3rem] md:mb-[1rem]  lg:text-left text-justify">
@@ -246,7 +246,7 @@ function Services({ yScroll }) {
                   />
                 </div>
                 <div className=" w-full px-[1rem]">
-                  <h1 className=" mr-auto my-[2rem] md:my-[3rem] lg:my-[2rem] w-fit font-bold  text-2xl  lg:text-xl xl:text-3xl pb-[.5rem]">
+                  <h1 className=" mr-auto my-[2rem] md:my-[3rem] lg:my-[2rem] w-fit font-bold  text-2xl  lg:text-xl xl:text-2xl pb-[.5rem]">
                     Автоматизация процессов
                   </h1>
                   <p className="mt-[1rem] text-[1.3rem] lg:text-[1.1rem] xl:text-[1.3rem] mb-[3rem] md:mb-[1rem] lg:text-left text-justify">
@@ -258,7 +258,7 @@ function Services({ yScroll }) {
               </motion.div>
             </div>
             <div className="mx-auto max-w-none my-0 xl:max-w-[960px] 2xl:max-w-[900px] md:text-justify px-[15px]">
-              <h1 className="mt-0 mr-auto mb-[1.07em] w-fit font-bold text-2xl lg:text-4xl  pb-[.5rem]">
+              <h1 className="mt-0 mr-auto mb-[1.07em] w-fit font-bold text-2xl lg:text-3xl  pb-[.5rem]">
                 В числе наших клиентов орагнизации из различных сфер:
                 нефте-газовый сектор, атомная энергетика, связь и
                 телекоммуникации, безопасность, производство различной
